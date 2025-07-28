@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PulseUI Dashboard",
+  title: "PulseUI",
   description: "Interactive dashboard made with Next.js",
   icons: {
     icon: "/favicon.ico",
