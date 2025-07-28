@@ -9,6 +9,8 @@ import {
   Plus,
   Projector,
   ChevronDown,
+  IndianRupee,
+  UserPen,
 } from "lucide-react";
 import {
   Sidebar,
@@ -50,14 +52,14 @@ const items = [
     icon: Home,
   },
   {
-    title: "Inbox",
-    url: "#",
-    icon: Inbox,
+    title: "Payments",
+    url: "/payments",
+    icon: IndianRupee,
   },
   {
-    title: "Calendar",
-    url: "#",
-    icon: Calendar,
+    title: "Users",
+    url: "/users/",
+    icon: UserPen,
   },
   {
     title: "Search",

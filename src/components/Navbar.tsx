@@ -21,7 +21,7 @@ const Navbar = () => {
     <nav className="flex p-4 items-center justify-between">
       <SidebarTrigger />
       <div className="flex items-center gap-4">
-        <Link href="/">Dashboard</Link>
+        <Link href="/" className="font-medium">Dashboard</Link>
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
             <Button variant="outline" size="icon">
