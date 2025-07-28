@@ -13,7 +13,7 @@ A modern dashboard interface built with Next.js, featuring interactive charts, u
 - 💳 Payment tracking system
 - ✨ Modern UI components powered by ShadCN UI
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - **Next.js** – React framework
 - **Tailwind CSS** – Utility-first styling
